@@ -18,19 +18,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!--[![Contributors][contributors-shield]][contributors-url]-->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/144/000000/javascript.png"/>
   </a>
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://img.icons8.com/external-others-amoghdesign/144/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"/>
