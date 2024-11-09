@@ -1,6 +1,4 @@
 <div id="top"></div>
-<!-- PROJECT SHIELDS -->
-
 
 <!--[![Contributors][contributors-shield]][contributors-url]-->
 
@@ -36,8 +34,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>-->
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
